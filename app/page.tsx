@@ -1,5 +1,6 @@
 export default function Home() {
   return (
+    <div>
       <div className=" flex justify-center items-center">
 
         <p className="text-2xl text-center text-pink-500">
@@ -12,6 +13,12 @@ export default function Home() {
         />
 
       </div>
+      <div>
+        <p className="text-2xl text-center text-black p-4">
+          i hope you are doing well.
+        </p>
+      </div>
+    </div>
 
   );
 }
