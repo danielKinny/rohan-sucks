@@ -14,8 +14,13 @@ export default function Home() {
 
       </div>
       <div>
-        <p className="text-2xl text-center text-black p-4">
-          i hope you are doing well.
+        <p className="text-2xl text-center text-black p-4 font-family-sans">
+          from delisha - ***************************************************
+        </p>
+      </div>
+      <div>
+        <p className="text-2xl text-center text-black p-4 font-family-sans">
+          from hadiya - if ur gonna eat all my food atleast turn it into some muscle 
         </p>
       </div>
     </div>
