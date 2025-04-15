@@ -22,6 +22,10 @@ export default function Home() {
         <p className="text-2xl text-center text-black p-4 font-family-sans">
           from hadiya - if ur gonna eat all my food atleast turn it into some muscle 
         </p>
+
+        <p className="text-2xl text-center text-black p-4 font-family-sans">
+          from inaayat - i agree i think rohan-sucks f*ck this guy 
+        </p>
       </div>
     </div>
 
